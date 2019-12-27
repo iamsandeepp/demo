@@ -1,13 +1,11 @@
 # demo
 This is my first repository
 
->Let's see what happens?
+- Point 1
+- Point 2
 
 ___
-- Hi
-- What
-- is this?
 
 ```
-print('Hello')
+print('hello world')
 ```
