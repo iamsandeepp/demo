@@ -1,11 +1,14 @@
-# demo
-This is my first repository
+# My Repo for latest projects at INSAID
 
-- Point 1
-- Point 2
+## Here is the list of all projects
 
-___
+- [Finance](https://github.com/iamsandeepp/demo/tree/master/Finance-project "Finance")
+- Accounts
+- Banking
+- Energy
 
-```
-print('hello world')
-```
+| Finance Project  | [![Fin](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/finance1.jpeg "Fin")](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/finance1.jpeg "Fin")  |
+| :------------: | :------------: |
+| [![Acconts](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Accounting.jpg "Acconts")](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Accounting.jpg "Acconts")  | Accounts Project  |
+| Banking Project  | [![Banking](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Banking.jpg "Banking")](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Banking.jpg "Banking")  |
+| [![Energy](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Energy.jpeg "Energy")](https://raw.githubusercontent.com/iamsandeepp/demo/master/images/Energy.jpeg "Energy")  | Energy Project  |
