@@ -9,5 +9,5 @@ ___
 - is this?
 
 ```
-print('Hello)
+print('Hello')
 ```
